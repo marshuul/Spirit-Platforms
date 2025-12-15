@@ -2,7 +2,7 @@
 ### A Curated, Open-Source JSON List of the World's Major Online Platforms
 
 [![File Type](https://img.shields.io/badge/Data%20Format-JSON-blue.svg)](platforms.json)
-[![Open Source](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Open Source](https://img.shields.io/badge/License-CC0-green.svg)](LICENSE)
 
 ***
 
