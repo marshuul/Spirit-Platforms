@@ -1,0 +1,1634 @@
+{
+  "categories": [
+    {
+      "name": "Search Engines",
+      "platforms": [
+        {
+          "id": "search_brave",
+          "name": "Brave Search",
+          "category": "Search Engines",
+          "description": "Privacy-focused search engine",
+          "about": "Brave Search is a privacy-preserving search engine developed by Brave Software, offering independent search results without tracking users or their queries.",
+          "link": "https://search.brave.com/",
+          "searchLink": "https://search.brave.com/search?q=",
+          "icon": "si:SiBrave"
+        },
+        {
+          "id": "search_google",
+          "name": "Google",
+          "category": "Search Engines",
+          "description": "Dominant global search engine",
+          "about": "Google Search is the most widely used search engine worldwide, offering a vast index of web pages and various search functionalities, including images, news, and maps.",
+          "link": "https://www.google.com/",
+          "searchLink": "https://www.google.com/search?q=",
+          "icon": "si:SiGoogle"
+        },
+        {
+          "id": "search_bing",
+          "name": "Bing",
+          "category": "Search Engines",
+          "description": "Microsoft's web search engine",
+          "about": "Bing is a web search engine owned and operated by Microsoft. It offers various search services, including web, image, video, and map search, and integrates with Microsoft products.",
+          "link": "https://www.bing.com/",
+          "searchLink": "https://www.bing.com/search?q=",
+          "icon": "si:SiBing"
+        },
+        {
+          "id": "search_yahoo",
+          "name": "Yahoo!",
+          "category": "Search Engines",
+          "description": "Web portal, search engine",
+          "about": "Yahoo! Search is a web search engine provided by Yahoo. It also serves as a comprehensive web portal offering news, email, and other online services.",
+          "link": "https://search.yahoo.com/",
+          "searchLink": "https://search.yahoo.com/search?p=",
+          "icon": "si:SiYahoo"
+        },
+        {
+          "id": "search_duckduckgo",
+          "name": "DuckDuckGo",
+          "category": "Search Engines",
+          "description": "Private, untracked search engine",
+          "about": "DuckDuckGo is a search engine that emphasizes protecting searchers' privacy. It does not track users or filter search results based on past activity.",
+          "link": "https://duckduckgo.com/",
+          "searchLink": "https://duckduckgo.com/?q=",
+          "icon": "si:SiDuckduckgo"
+        },
+        {
+          "id": "search_baidu",
+          "name": "Baidu",
+          "category": "Search Engines",
+          "description": "Leading Chinese search engine",
+          "about": "Baidu is a Chinese multinational technology company specializing in Internet-related services and products, primarily known for its dominant search engine in China.",
+          "link": "https://www.baidu.com/",
+          "searchLink": "https://www.baidu.com/s?wd=",
+          "icon": "si:SiBaidu"
+        },
+        {
+          "id": "search_yandex",
+          "name": "Yandex",
+          "category": "Search Engines",
+          "description": "Popular Russian search engine",
+          "about": "Yandex is a Russian multinational technology company providing Internet-related products and services, including its widely used search engine, often considered the 'Google of Russia.'",
+          "link": "https://yandex.com/",
+          "searchLink": "https://yandex.com/search/?text=",
+          "icon": "si:SiYandex"
+        },
+        {
+          "id": "search_ecosia",
+          "name": "Ecosia",
+          "category": "Search Engines",
+          "description": "Plants trees with searches",
+          "about": "Ecosia is a search engine that donates 80% or more of its profits to non-profit organizations focused on reforestation. Users contribute to planting trees by searching online.",
+          "link": "https://www.ecosia.org/",
+          "searchLink": "https://www.ecosia.org/search?q=",
+          "icon": "si:SiEcosia"
+        },
+        {
+          "id": "search_ask",
+          "name": "Ask.com",
+          "category": "Search Engines",
+          "description": "Question-answering search engine",
+          "about": "Ask.com, formerly Ask Jeeves, is a question-answering focused web search engine. It allows users to ask questions in natural language and provides answers and related search results.",
+          "link": "https://www.ask.com/",
+          "searchLink": "https://www.ask.com/web?q=",
+          "icon": null
+        },
+        {
+          "id": "search_qwant",
+          "name": "Qwant",
+          "category": "Search Engines",
+          "description": "Privacy-friendly European search engine",
+          "about": "Qwant is a French search engine that prides itself on not tracking its users and providing unbiased results. It aims to offer an alternative to major search engines with a focus on privacy.",
+          "link": "https://www.qwant.com/",
+          "searchLink": "https://www.qwant.com/?q=",
+          "icon": "si:SiQwant"
+        },
+        {
+          "id": "search_wolframalpha",
+          "name": "WolframAlpha",
+          "category": "Search Engines",
+          "description": "Computational knowledge engine",
+          "about": "WolframAlpha is a computational knowledge engine that answers factual queries directly by computing the answer from structured data, rather than providing a list of documents or web pages.",
+          "link": "https://www.wolframalpha.com/",
+          "searchLink": "https://www.wolframalpha.com/input/?i=",
+          "icon": "si:SiWolfram"
+        }
+      ]
+    },
+    {
+      "name": "Visual Search",
+      "platforms": [
+        {
+          "id": "visual_google",
+          "name": "Google Visual Search",
+          "category": "Visual Search",
+          "description": "Search with an image on Google",
+          "about": "Google's visual search allows you to search using an image instead of text, helping you find similar images, products, and information related to the image.",
+          "link": "https://images.google.com/",
+          "searchLink": null,
+          "icon": "si:SiGooglelens"
+        },
+        {
+          "id": "visual_bing",
+          "name": "Bing Visual Search",
+          "category": "Visual Search",
+          "description": "Search with an image on Bing",
+          "about": "Bing's visual search lets you explore the web by using an image. You can find similar images, identify objects, and get more information about what's in your picture.",
+          "link": "https://www.bing.com/visualsearch",
+          "searchLink": null,
+          "icon": "si:SiMicrosoftbing"
+        }
+      ]
+    },
+    {
+      "name": "Social Media",
+      "platforms": [
+        {
+          "id": "social_facebook",
+          "name": "Facebook",
+          "category": "Social Media",
+          "description": "Global social networking platform",
+          "about": "Facebook is a social media and social networking service owned by Meta Platforms. It allows users to create profiles, share photos and videos, send messages, and join groups.",
+          "link": "https://www.facebook.com/",
+          "searchLink": "https://www.facebook.com/search/top?q=",
+          "icon": "si:SiFacebook"
+        },
+        {
+          "id": "social_instagram",
+          "name": "Instagram",
+          "category": "Social Media",
+          "description": "Photo, video sharing app",
+          "about": "Instagram is a photo and video sharing social networking service owned by Meta Platforms. Users can share visual content, apply filters, and interact with others' posts.",
+          "link": "https://www.instagram.com/",
+          "searchLink": "https://www.instagram.com/explore/tags/",
+          "icon": "si:SiInstagram"
+        },
+        {
+          "id": "social_x",
+          "name": "X - Twitter",
+          "category": "Social Media",
+          "description": "Microblogging, social networking service",
+          "about": "Twitter (now X) is a microblogging and social networking service where users post and interact with messages known as 'tweets.' It's a platform for real-time news and conversations.",
+          "link": "https://x.com/",
+          "searchLink": "https://x.com/search?q=",
+          "icon": "si:SiX"
+        },
+        {
+          "id": "social_linkedin",
+          "name": "LinkedIn",
+          "category": "Social Media",
+          "description": "Professional networking platform",
+          "about": "LinkedIn is a business and employment-focused social media platform that operates via websites and mobile apps. It's primarily used for professional networking, including job seeking and professional development.",
+          "link": "https://www.linkedin.com/",
+          "searchLink": "https://www.linkedin.com/search/results/all/?keywords=",
+          "icon": "si:SiLinkedin"
+        },
+        {
+          "id": "social_snapchat",
+          "name": "Snapchat",
+          "category": "Social Media",
+          "description": "Image, video messaging app",
+          "about": "Snapchat is a multimedia messaging app known for its ephemeral messages (snaps) that disappear after a short time. It also features stories, filters, and augmented reality lenses.",
+          "link": "https://www.snapchat.com/",
+          "searchLink": "https://www.snapchat.com/search?q=",
+          "icon": "si:SiSnapchat"
+        },
+        {
+          "id": "social_reddit",
+          "name": "Reddit",
+          "category": "Social Media",
+          "description": "Social news aggregation",
+          "about": "Reddit is a social news aggregation, web content rating, and discussion website. Users submit content, which is then voted up or down by other members, influencing its visibility.",
+          "link": "https://www.reddit.com/",
+          "searchLink": "https://www.reddit.com/search/?q=",
+          "icon": "si:SiReddit"
+        },
+        {
+          "id": "social_tumblr",
+          "name": "Tumblr",
+          "category": "Social Media",
+          "description": "Microblogging, social networking",
+          "about": "Tumblr is a microblogging and social networking website that allows users to post multimedia and other content to a short-form blog. Users can follow other blogs and reblog content.",
+          "link": "https://www.tumblr.com/",
+          "searchLink": "https://www.tumblr.com/search/",
+          "icon": "si:SiTumblr"
+        },
+        {
+          "id": "social_tiktok",
+          "name": "TikTok",
+          "category": "Social Media",
+          "description": "Short-form video platform",
+          "about": "TikTok is a short-form video hosting service owned by ByteDance. It hosts a wide variety of short user-generated videos, from dance challenges to comedy sketches.",
+          "link": "https://www.tiktok.com/",
+          "searchLink": "https://www.tiktok.com/search?q=",
+          "icon": "si:SiTiktok"
+        },
+        {
+          "id": "social_wechat",
+          "name": "WeChat",
+          "category": "Social Media",
+          "description": "Multi-purpose Chinese app",
+          "about": "WeChat is a Chinese multi-purpose messaging, social media, and mobile payment app developed by Tencent. It's a super-app offering various functions beyond messaging.",
+          "link": "https://www.wechat.com/en/",
+          "searchLink": "https://www.wechat.com/en/search?q=",
+          "icon": "si:SiWechat"
+        },
+        {
+          "id": "social_whatsapp",
+          "name": "WhatsApp",
+          "category": "Social Media",
+          "description": "Encrypted messaging, calling app",
+          "about": "WhatsApp is a free, cross-platform, encrypted messaging and voice over IP service owned by Meta Platforms. It allows users to send text and voice messages, make calls, and share media.",
+          "link": "https://www.whatsapp.com/",
+          "searchLink": "https://faq.whatsapp.com/search/?query=",
+          "icon": "si:SiWhatsapp"
+        },
+        {
+          "id": "social_line",
+          "name": "Line",
+          "category": "Social Media",
+          "description": "Messaging, social app",
+          "about": "Line is a free communication app for instant messaging, voice, and video calls. Popular in Asia, it also offers social networking features, games, and news feeds.",
+          "link": "https://line.me/en/",
+          "searchLink": "https://store.line.me/search/ja?q=",
+          "icon": "si:SiLine"
+        }
+      ]
+    },
+    {
+      "name": "Video Sharing",
+      "platforms": [
+        {
+          "id": "video_youtube",
+          "name": "YouTube",
+          "category": "Video Sharing",
+          "description": "Largest video sharing platform",
+          "about": "YouTube is an American online video sharing and social media platform owned by Google. It hosts a vast array of user-generated and corporate media videos, including music videos, documentaries, and vlogs.",
+          "link": "https://www.youtube.com/",
+          "searchLink": "https://www.youtube.com/results?search_query=",
+          "icon": "si:SiYoutube"
+        },
+        {
+          "id": "video_vimeo",
+          "name": "Vimeo",
+          "category": "Video Sharing",
+          "description": "High-quality video platform",
+          "about": "Vimeo is a video hosting, sharing, and services platform. It focuses on high-quality video content and offers tools for creators, professionals, and businesses.",
+          "link": "https://vimeo.com/",
+          "searchLink": "https://vimeo.com/search?q=",
+          "icon": "si:SiVimeo"
+        },
+        {
+          "id": "video_dailymotion",
+          "name": "Dailymotion",
+          "category": "Video Sharing",
+          "description": "Video sharing platform",
+          "about": "Dailymotion is a French video-sharing technology platform owned by Vivendi. It allows users to upload, watch, and share videos globally.",
+          "link": "https://www.dailymotion.com/",
+          "searchLink": "https://www.dailymotion.com/search/",
+          "icon": "si:SiDailymotion"
+        }
+      ]
+    },
+    {
+      "name": "Streaming Services (Video)",
+      "platforms": [
+        {
+          "id": "stream_video_netflix",
+          "name": "Netflix",
+          "category": "Streaming Services (Video)",
+          "description": "Movies, TV shows streaming",
+          "about": "Netflix is a global streaming service offering a vast library of films and television series, including award-winning Netflix Originals, across various genres and languages.",
+          "link": "https://www.netflix.com/",
+          "searchLink": "https://www.netflix.com/search?q=",
+          "icon": "si:SiNetflix"
+        },
+        {
+          "id": "stream_video_hulu",
+          "name": "Hulu",
+          "category": "Streaming Services (Video)",
+          "description": "TV, movies streaming",
+          "about": "Hulu is an American streaming service primarily focused on TV shows from major broadcast networks, as well as a growing library of original content and movies.",
+          "link": "https://www.hulu.com/",
+          "searchLink": "https://www.hulu.com/search?q=",
+          "icon": "si:SiHulu"
+        },
+        {
+          "id": "stream_video_hbo_max",
+          "name": "HBO Max",
+          "category": "Streaming Services (Video)",
+          "description": "Warner Bros. content streaming",
+          "about": "HBO Max (now Max) is a streaming service that combines all of HBO with an even broader collection of movies, series, and Max Originals from Warner Bros., DC, and more.",
+          "link": "https://www.hbomax.com/",
+          "searchLink": "https://www.hbomax.com/search?q=",
+          "icon": null
+        },
+        {
+          "id": "stream_video_disney_plus",
+          "name": "Disney+",
+          "category": "Streaming Services (Video)",
+          "description": "Disney, Pixar, Marvel streaming",
+          "about": "Disney+ is a subscription streaming service from The Walt Disney Company. It features content from Disney's main entertainment studios, including Pixar, Marvel, Star Wars, and National Geographic.",
+          "link": "https://www.disneyplus.com/",
+          "searchLink": "https://www.disneyplus.com/search?q=",
+          "icon": "si:SiDisneyplus"
+        },
+        {
+          "id": "stream_video_prime_video",
+          "name": "Amazon Prime Video",
+          "category": "Streaming Services (Video)",
+          "description": "Streaming with Prime membership",
+          "about": "Amazon Prime Video is a subscription video on-demand service offered by Amazon. It provides a wide range of movies, TV shows, and Amazon Originals, often included with an Amazon Prime membership.",
+          "link": "https://www.amazon.com/Prime-Video/",
+          "searchLink": "https://www.amazon.com/s?k=",
+          "icon": "si:SiPrime"
+        },
+        {
+          "id": "stream_video_apple_tv_plus",
+          "name": "Apple TV+",
+          "category": "Streaming Services (Video)",
+          "description": "Apple original content",
+          "about": "Apple TV+ is a streaming service featuring Apple Originals—award-winning series, compelling dramas, groundbreaking documentaries, kids' entertainment, comedies, and more.",
+          "link": "https://tv.apple.com/",
+          "searchLink": "https://tv.apple.com/search?q=",
+          "icon": "si:SiAppletv"
+        },
+        {
+          "id": "stream_video_paramount_plus",
+          "name": "Paramount+",
+          "category": "Streaming Services (Video)",
+          "description": "CBS, Paramount content streaming",
+          "about": "Paramount+ is a streaming service from Paramount Global, offering content from CBS, BET, Comedy Central, MTV, Nickelodeon, Paramount Pictures, and Showtime.",
+          "link": "https://www.paramountplus.com/",
+          "searchLink": "https://www.paramountplus.com/shows/?q=",
+          "icon": null
+        },
+        {
+          "id": "stream_video_peacock",
+          "name": "Peacock",
+          "category": "Streaming Services (Video)",
+          "description": "NBCUniversal's streaming service",
+          "about": "Peacock is an American over-the-top video streaming service owned by NBCUniversal. It offers a variety of content, including TV shows, movies, news, and sports.",
+          "link": "https://www.peacocktv.com/",
+          "searchLink": "https://www.peacocktv.com/watch/search?q=",
+          "icon": null
+        },
+        {
+          "id": "stream_video_crunchyroll",
+          "name": "Crunchyroll",
+          "category": "Streaming Services (Video)",
+          "description": "Anime, manga streaming",
+          "about": "Crunchyroll is an American subscription video on-demand streaming service owned by Sony. It specializes in distributing and licensing anime, manga, and dorama.",
+          "link": "https://www.crunchyroll.com/",
+          "searchLink": "https://www.crunchyroll.com/search?from=search&q=",
+          "icon": "si:SiCrunchyroll"
+        },
+        {
+          "id": "stream_video_tubi",
+          "name": "Tubi",
+          "category": "Streaming Services (Video)",
+          "description": "Free ad-supported streaming",
+          "about": "Tubi is a free, ad-supported video streaming service owned by Fox Corporation. It offers a large library of movies and TV shows from various studios.",
+          "link": "https://tubitv.com/",
+          "searchLink": "https://tubitv.com/search/?q=",
+          "icon": null
+        },
+        {
+          "id": "stream_video_twitch",
+          "name": "Twitch",
+          "category": "Streaming Services (Video)",
+          "description": "Live streaming, gaming",
+          "about": "Twitch is an American live video streaming service owned by Amazon. It primarily focuses on video game live streaming, including esports competitions, as well as music broadcasts and creative content.",
+          "link": "https://www.twitch.tv/",
+          "searchLink": "https://www.twitch.tv/search?term=",
+          "icon": "si:SiTwitch"
+        }
+      ]
+    },
+    {
+      "name": "Streaming Services (Music)",
+      "platforms": [
+        {
+          "id": "stream_music_spotify",
+          "name": "Spotify",
+          "category": "Streaming Services (Music)",
+          "description": "Music, podcast streaming",
+          "about": "Spotify is a Swedish audio streaming and media services provider. It offers digital copyright restricted recorded music and podcasts, including over 100 million songs and 5 million podcasts.",
+          "link": "https://open.spotify.com/",
+          "searchLink": "https://open.spotify.com/search/",
+          "icon": "si:SiSpotify"
+        },
+        {
+          "id": "stream_music_apple_music",
+          "name": "Apple Music",
+          "category": "Streaming Services (Music)",
+          "description": "Apple's music streaming",
+          "about": "Apple Music is a music and video streaming service developed by Apple Inc. Users can stream over 100 million songs, listen to live radio, and watch music videos.",
+          "link": "https://music.apple.com/",
+          "searchLink": "https://music.apple.com/us/search?term=",
+          "icon": "si:SiApplemusic"
+        },
+        {
+          "id": "stream_music_amazon_music",
+          "name": "Amazon Music",
+          "category": "Streaming Services (Music)",
+          "description": "Music streaming from Amazon",
+          "about": "Amazon Music is a music streaming platform and online music store operated by Amazon. It offers various tiers of service, including a free ad-supported version and premium subscriptions with unlimited access.",
+          "link": "https://music.amazon.com/",
+          "searchLink": "https://music.amazon.com/search/",
+          "icon": "si:SiAmazonmusic"
+        },
+        {
+          "id": "stream_music_youtube_music",
+          "name": "YouTube Music",
+          "category": "Streaming Services (Music)",
+          "description": "Music streaming by YouTube",
+          "about": "YouTube Music is a music streaming service developed by YouTube. It provides a tailored interface for music streaming, allowing users to browse songs and music videos on YouTube based on genres, playlists, and recommendations.",
+          "link": "https://music.youtube.com/",
+          "searchLink": "https://music.youtube.com/search?q=",
+          "icon": "si:SiYoutubemusic"
+        },
+        {
+          "id": "stream_music_deezer",
+          "name": "Deezer",
+          "category": "Streaming Services (Music)",
+          "description": "Global music streaming service",
+          "about": "Deezer is a French online music streaming service. It allows users to listen to music online or offline on various devices and features a vast catalog of songs and podcasts.",
+          "link": "https://www.deezer.com/",
+          "searchLink": "https://www.deezer.com/search/",
+          "icon": "si:SiDeezer"
+        },
+        {
+          "id": "stream_music_soundcloud",
+          "name": "SoundCloud",
+          "category": "Streaming Services (Music)",
+          "description": "Audio distribution platform",
+          "about": "SoundCloud is a Swedish-founded online audio distribution platform and music sharing website. It enables its users to upload, promote, and share audio, as well as a digital signal processor.",
+          "link": "https://soundcloud.com/",
+          "searchLink": "https://soundcloud.com/search?q=",
+          "icon": "si:SiSoundcloud"
+        },
+        {
+          "id": "stream_music_tidal",
+          "name": "Tidal",
+          "category": "Streaming Services (Music)",
+          "description": "High-fidelity music streaming",
+          "about": "Tidal is a subscription-based music, podcast, and video streaming service that offers high-fidelity sound quality, high-definition music videos, and exclusive content.",
+          "link": "https://tidal.com/",
+          "searchLink": "https://tidal.com/search?q=",
+          "icon": "si:SiTidal"
+        },
+        {
+          "id": "stream_music_pandora",
+          "name": "Pandora",
+          "category": "Streaming Services (Music)",
+          "description": "Personalized internet radio",
+          "about": "Pandora Radio is a music streaming and automated music recommendation service operated by Sirius XM Satellite Radio. It creates personalized radio stations based on user preferences.",
+          "link": "https://www.pandora.com/",
+          "searchLink": "https://www.pandora.com/search/",
+          "icon": "si:SiPandora"
+        },
+        {
+          "id": "stream_music_iheartradio",
+          "name": "iHeartRadio",
+          "category": "Streaming Services (Music)",
+          "description": "Live radio, podcast streaming",
+          "about": "iHeartRadio is an American online radio platform owned by iHeartMedia. It offers a wide variety of live radio stations, podcasts, and digital music streaming.",
+          "link": "https://www.iheart.com/",
+          "searchLink": "https://www.iheart.com/search/?q=",
+          "icon": "si:SiIheartradio"
+        },
+        {
+          "id": "stream_music_bandcamp",
+          "name": "Bandcamp",
+          "category": "Streaming Services (Music)",
+          "description": "Music store, artist community",
+          "about": "Bandcamp is an online music store and a community for independent artists. It allows artists to set their own prices for digital and physical music and provides a platform for fans to directly support them.",
+          "link": "https://bandcamp.com/",
+          "searchLink": "https://bandcamp.com/search?q=",
+          "icon": "si:SiBandcamp"
+        }
+      ]
+    },
+    {
+      "name": "Creative Assets",
+      "platforms": [
+        {
+          "id": "creative_pinterest",
+          "name": "Pinterest",
+          "category": "Creative Assets",
+          "description": "Visual discovery engine",
+          "about": "Pinterest is a visual discovery engine for finding ideas like recipes, home and style inspiration, and more. Users can save and organize images and videos onto virtual 'boards.'",
+          "link": "https://www.pinterest.com/",
+          "searchLink": "https://www.pinterest.com/search/pins/?q=",
+          "icon": "si:SiPinterest"
+        },
+        {
+          "id": "creative_google_images",
+          "name": "Google Images",
+          "category": "Creative Assets",
+          "description": "Visual discovery search engine",
+          "about": "Google Images is a search engine by Google that allows users to find images from across the web. It provides visual search results for keywords, enabling users to discover, view, and download images for personal or educational use.",
+          "link": "https://www.google.com/imghp?hl=en&authuser=0&ogbl",
+          "searchLink": "https://www.google.com/search?q=",
+          "icon": "si:SiGoogle"
+        },
+        {
+          "id": "creative_bing_images",
+          "name": "Bing Images",
+          "category": "Creative Assets",
+          "description": "Visual discovery search engine",
+          "about": "Bing Images is a visual search engine by Microsoft that allows users to discover, view, and download images from across the web. It provides image search results for keywords, enabling users to explore a wide variety of visual content.",
+          "link": "https://www.bing.com/images/",
+          "searchLink": "https://www.bing.com/images/search?q=",
+          "icon": "si:SiBing"
+        },
+        {
+          "id": "creative_brave_images",
+          "name": "Brave Images",
+          "category": "Creative Assets",
+          "description": "Visual discovery search engine",
+          "about": "Brave Images is a privacy-focused image search feature from Brave Search, providing independent visual results without tracking users or their queries. It emphasizes user privacy while helping you discover images across the web.",
+          "link": "https://search.brave.com/",
+          "searchLink": "https://search.brave.com/images?q=",
+          "icon": "si:SiBrave"
+        },
+        {
+          "id": "creative_pexels",
+          "name": "Pexels",
+          "category": "Creative Assets",
+          "description": "Free stock photos & videos",
+          "about": "Pexels provides high-quality and completely free stock photos and videos contributed by talented creators. Ideal for websites, social media, and creative projects.",
+          "link": "https://www.pexels.com/",
+          "searchLink": "https://www.pexels.com/search/",
+          "icon": "si:SiPexels"
+        },
+        {
+          "id": "creative_unsplash",
+          "name": "Unsplash",
+          "category": "Creative Assets",
+          "description": "Beautiful free images",
+          "about": "Unsplash offers a curated collection of high-resolution photos gifted by the world’s most generous community of photographers. Free to use for any purpose.",
+          "link": "https://unsplash.com/",
+          "searchLink": "https://unsplash.com/s/photos/",
+          "icon": "si:SiUnsplash"
+        },
+        {
+          "id": "creative_pixabay",
+          "name": "Pixabay",
+          "category": "Creative Assets",
+          "description": "Free images, videos & vectors",
+          "about": "Pixabay is a massive resource of free stock photos, vector graphics, illustrations, videos, and music, all released under a simplified Pixabay license.",
+          "link": "https://pixabay.com/",
+          "searchLink": "https://pixabay.com/images/search/",
+          "icon": "si:SiPixabay"
+        },
+        {
+          "id": "creative_kaboompics",
+          "name": "Kaboompics",
+          "category": "Creative Assets",
+          "description": "Modern lifestyle photography",
+          "about": "Kaboompics offers stylish, high-resolution lifestyle photos with cohesive color palettes. Perfect for blog, social, and commercial design use.",
+          "link": "https://kaboompics.com/",
+          "searchLink": "https://kaboompics.com/gallery?search=",
+          "icon": "tabler:photo"
+        },
+        {
+          "id": "creative_reshot",
+          "name": "Reshot",
+          "category": "Creative Assets",
+          "description": "Handpicked free photos",
+          "about": "Reshot provides unique, non-stocky free images from emerging photographers. All photos are free for commercial use with no attribution required.",
+          "link": "https://www.reshot.com/",
+          "searchLink": "https://www.reshot.com/search/?q=",
+          "icon": "lucide:images"
+        },
+        {
+          "id": "creative_life_of_pix",
+          "name": "Life of Pix",
+          "category": "Creative Assets",
+          "description": "Artistic high-res photos",
+          "about": "Life of Pix offers free high-resolution photos donated by photographers. Focused on mood, creativity, and artistic quality, with new images added weekly.",
+          "link": "https://www.lifeofpix.com/",
+          "searchLink": "https://www.lifeofpix.com/?s=",
+          "icon": "carbon:image"
+        },
+        {
+          "id": "creative_libreshot",
+          "name": "LibreShot",
+          "category": "Creative Assets",
+          "description": "Free photo collection",
+          "about": "LibreShot is a collection of original photos by Martin Vorel, offered under a free license for personal or commercial use. No attribution required.",
+          "link": "https://libreshot.com/",
+          "searchLink": "https://libreshot.com/?s=",
+          "icon": "mdi:image-outline"
+        },
+        {
+          "id": "creative_deviantart",
+          "name": "DeviantArt",
+          "category": "Creative Assets",
+          "description": "Online art community",
+          "about": "DeviantArt is a large social network for artists and art lovers. It includes digital art, photography, and fan art, though not all content is free for commercial use.",
+          "link": "https://www.deviantart.com/",
+          "searchLink": "https://www.deviantart.com/search?q=",
+          "icon": "si:SiDeviantart"
+        }
+      ]
+    },
+    {
+      "name": "Encyclopedias & Knowledge Bases",
+      "platforms": [
+        {
+          "id": "encyclo_wikipedia",
+          "name": "Wikipedia",
+          "category": "Encyclopedias & Knowledge Bases",
+          "description": "Free online encyclopedia",
+          "about": "Wikipedia is a multilingual, web-based, free-content encyclopedia project supported by the Wikimedia Foundation. It is written and maintained by a community of volunteers around the world.",
+          "link": "https://en.wikipedia.org/",
+          "searchLink": "https://en.wikipedia.org/wiki/Special:Search?search=",
+          "icon": "si:SiWikipedia"
+        },
+        {
+          "id": "encyclo_britannica",
+          "name": "Britannica",
+          "category": "Encyclopedias & Knowledge Bases",
+          "description": "Comprehensive online encyclopedia",
+          "about": "Encyclopædia Britannica is a general knowledge English-language encyclopedia. It is known for its authority and comprehensive coverage across various subjects.",
+          "link": "https://www.britannica.com/",
+          "searchLink": "https://www.britannica.com/search?query=",
+          "icon": null
+        },
+        {
+          "id": "encyclo_stanford_philosophy",
+          "name": "Stanford Encyclopedia of Philosophy",
+          "category": "Encyclopedias & Knowledge Bases",
+          "description": "Authoritative philosophy encyclopedia",
+          "about": "The Stanford Encyclopedia of Philosophy is a dynamic encyclopedia of philosophy maintained by Stanford University. It is widely regarded as a comprehensive and authoritative resource in the field.",
+          "link": "https://plato.stanford.edu/",
+          "searchLink": "https://plato.stanford.edu/search/searcher.py?query=",
+          "icon": null
+        },
+        {
+          "id": "encyclo_encyclopedia_com",
+          "name": "Encyclopedia.com",
+          "category": "Encyclopedias & Knowledge Bases",
+          "description": "Online reference, encyclopedia",
+          "about": "Encyclopedia.com provides access to nearly 200,000 reference entries from various trusted sources, including encyclopedias, dictionaries, and thesauruses.",
+          "link": "https://www.encyclopedia.com/",
+          "searchLink": "https://www.encyclopedia.com/gsearch?q=",
+          "icon": null
+        },
+        {
+          "id": "encyclo_infoplease",
+          "name": "Infoplease",
+          "category": "Encyclopedias & Knowledge Bases",
+          "description": "Fact-finding encyclopedia, almanac",
+          "about": "Infoplease is a comprehensive reference source and a reliable resource for facts on a wide range of topics, combining an encyclopedia, dictionary, atlas, and almanac.",
+          "link": "https://www.infoplease.com/",
+          "searchLink": "https://www.infoplease.com/search?q=",
+          "icon": null
+        },
+        {
+          "id": "encyclo_world_history",
+          "name": "World History Encyclopedia",
+          "category": "Encyclopedias & Knowledge Bases",
+          "description": "History encyclopedia online",
+          "about": "The World History Encyclopedia is a non-profit organization publishing free, reliable, and high-quality historical information online. It covers world history from prehistoric times to the present day.",
+          "link": "https://www.worldhistory.org/",
+          "searchLink": "https://www.worldhistory.org/search/?q=",
+          "icon": null
+        },
+        {
+          "id": "encyclo_scholarpedia",
+          "name": "Scholarpedia",
+          "category": "Encyclopedias & Knowledge Bases",
+          "description": "Peer-reviewed, open-access encyclopedia",
+          "about": "Scholarpedia is an open-access online encyclopedia with peer-reviewed articles. Its articles are written by invited experts and are subject to a formal peer-review process, ensuring high quality and accuracy.",
+          "link": "http://www.scholarpedia.org/",
+          "searchLink": "http://www.scholarpedia.org/w/index.php?search=",
+          "icon": null
+        },
+        {
+          "id": "encyclo_simple_wikipedia",
+          "name": "Simple Wikipedia",
+          "category": "Encyclopedias & Knowledge Bases",
+          "description": "Wikipedia in simpler English",
+          "about": "Simple English Wikipedia is an English-language edition of Wikipedia written primarily in Basic English and Simplified English. It is intended for people who are learning English or who find the regular Wikipedia too complex.",
+          "link": "https://simple.wikipedia.org/",
+          "searchLink": "https://simple.wikipedia.org/w/index.php?search=",
+          "icon": "si:SiWikipedia"
+        },
+        {
+          "id": "encyclo_citizendium",
+          "name": "Citizendium",
+          "category": "Encyclopedias & Knowledge Bases",
+          "description": "Collaborative, overseen encyclopedia",
+          "about": "Citizendium is an English-language wiki-based online encyclopedia that aims to improve upon the Wikipedia model by requiring contributors to use their real names and by offering expert oversight.",
+          "link": "https://en.citizendium.org/",
+          "searchLink": "https://en.citizendium.org/wiki?search=",
+          "icon": null
+        }
+      ]
+    },
+    {
+      "name": "Conversational AI",
+      "platforms": [
+        {
+          "id": "ai_chatgpt",
+          "name": "ChatGPT",
+          "category": "Conversational AI",
+          "description": "AI chatbot by OpenAI",
+          "about": "ChatGPT is a large language model chatbot developed by OpenAI. It is capable of generating human-like text responses, engaging in conversations, and performing various language-based tasks.",
+          "link": "https://chatgpt.com/",
+          "searchLink": "https://chatgpt.com/?q=",
+          "icon": null
+        },
+        {
+          "id": "ai_copilot",
+          "name": "Copilot",
+          "category": "Conversational AI",
+          "description": "AI assistant by Microsoft",
+          "about": "Microsoft Copilot is an AI-powered assistant designed to enhance productivity and creativity across various Microsoft applications and services, integrating AI capabilities directly into workflows.",
+          "link": "https://copilot.microsoft.com/",
+          "searchLink": "https://copilot.microsoft.com/?q=",
+          "icon": "si:SiMicrosoft"
+        },
+        {
+          "id": "ai_perplexity",
+          "name": "Perplexity AI",
+          "category": "Conversational AI",
+          "description": "AI conversational search",
+          "about": "Perplexity AI is an AI-powered answer engine that provides direct answers to complex questions, citing its sources, similar to a conversational search engine.",
+          "link": "https://www.perplexity.ai/",
+          "searchLink": "https://www.perplexity.ai/search?q=",
+          "icon": null
+        }
+      ]
+    },
+    {
+      "name": "Online Stores & E-commerce",
+      "platforms": [
+        {
+          "id": "ecommerce_amazon",
+          "name": "Amazon",
+          "category": "Online Stores & E-commerce",
+          "description": "Largest online retailer",
+          "about": "Amazon is an American multinational technology company focusing on e-commerce, cloud computing, online advertising, digital streaming, and artificial intelligence. It's the world's largest online marketplace.",
+          "link": "https://www.amazon.com/",
+          "searchLink": "https://www.amazon.com/s?k=",
+          "icon": "si:SiAmazon"
+        },
+        {
+          "id": "ecommerce_ebay",
+          "name": "eBay",
+          "category": "Online Stores & E-commerce",
+          "description": "Online auction, shopping",
+          "about": "eBay is an American multinational e-commerce company that facilitates consumer-to-consumer and business-to-consumer sales through its website. It's known for auctions and fixed-price listings.",
+          "link": "https://www.ebay.com/",
+          "searchLink": "https://www.ebay.com/sch/i.html?_nkw=",
+          "icon": "si:SiEbay"
+        },
+        {
+          "id": "ecommerce_alibaba",
+          "name": "Alibaba",
+          "category": "Online Stores & E-commerce",
+          "description": "Global B2B e-commerce",
+          "about": "Alibaba Group is a Chinese multinational technology company specializing in e-commerce, retail, Internet, and technology. It operates the world's largest B2B (business-to-business) online marketplace.",
+          "link": "https://www.alibaba.com/",
+          "searchLink": "https://www.alibaba.com/trade/search?fsb=y&SearchText=",
+          "icon": "si:SiAlibaba"
+        },
+        {
+          "id": "ecommerce_aliexpress",
+          "name": "AliExpress",
+          "category": "Online Stores & E-commerce",
+          "description": "Online store from Alibaba",
+          "about": "AliExpress is an online retail service based in China owned by Alibaba Group. It allows small businesses in China (and other locations) to sell products directly to international online buyers.",
+          "link": "https://www.aliexpress.com/",
+          "searchLink": "https://www.aliexpress.com/wholesale?SearchText=",
+          "icon": "si:SiAliexpress"
+        },
+        {
+          "id": "ecommerce_walmart",
+          "name": "Walmart",
+          "category": "Online Stores & E-commerce",
+          "description": "Multinational retail corporation",
+          "about": "Walmart is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores. Its online presence is a major e-commerce player.",
+          "link": "https://www.walmart.com/",
+          "searchLink": "https://www.walmart.com/search/?query=",
+          "icon": "si:SiWalmart"
+        },
+        {
+          "id": "ecommerce_target",
+          "name": "Target",
+          "category": "Online Stores & E-commerce",
+          "description": "General merchandise retailer",
+          "about": "Target Corporation is an American big box department store chain. It offers a wide range of products including clothing, electronics, home goods, and groceries, both in-store and online.",
+          "link": "https://www.target.com/",
+          "searchLink": "https://www.target.com/s?searchTerm=",
+          "icon": "si:SiTarget"
+        },
+        {
+          "id": "ecommerce_google_store",
+          "name": "Google Store",
+          "category": "Online Stores & E-commerce",
+          "description": "Google hardware products",
+          "about": "The Google Store is an online retail store operated by Google, selling Google-developed hardware products including Pixel phones, Google Nest devices, Fitbit wearables, and more.",
+          "link": "https://store.google.com/",
+          "searchLink": "https://store.google.com/us/search?q=",
+          "icon": "si:SiGooglestreetview"
+        },
+        {
+          "id": "ecommerce_etsy",
+          "name": "Etsy",
+          "category": "Online Stores & E-commerce",
+          "description": "Handmade, vintage marketplace",
+          "about": "Etsy is an e-commerce website focused on handmade or vintage items and craft supplies. It connects buyers with independent sellers, offering unique and personalized products.",
+          "link": "https://www.etsy.com/",
+          "searchLink": "https://www.etsy.com/search?q=",
+          "icon": "si:SiEtsy"
+        },
+        {
+          "id": "ecommerce_best_buy",
+          "name": "Best Buy",
+          "category": "Online Stores & E-commerce",
+          "description": "Consumer electronics retailer",
+          "about": "Best Buy is an American multinational retailer of consumer electronics. It sells a wide range of products including computers, televisions, home appliances, and more, both in stores and online.",
+          "link": "https://www.bestbuy.com/",
+          "searchLink": "https://www.bestbuy.com/site/searchpage.jsp?st=",
+          "icon": "si:SiBestbuy"
+        },
+        {
+          "id": "ecommerce_rakuten",
+          "name": "Rakuten",
+          "category": "Online Stores & E-commerce",
+          "description": "Japanese e-commerce giant",
+          "about": "Rakuten is a Japanese electronic commerce and online retailing company. It operates Japan's largest e-commerce site, Rakuten Ichiba, and offers various services including financial tech and digital content.",
+          "link": "https://www.rakuten.co.jp/",
+          "searchLink": "https://search.rakuten.co.jp/search/mall/",
+          "icon": "si:SiRakuten"
+        },
+        {
+          "id": "ecommerce_flipkart",
+          "name": "Flipkart",
+          "category": "Online Stores & E-commerce",
+          "description": "Indian e-commerce company",
+          "about": "Flipkart is an Indian e-commerce company, headquartered in Bengaluru, Karnataka, India. It's one of the largest online retailers in India, offering a wide range of products from electronics to fashion.",
+          "link": "https://www.flipkart.com/",
+          "searchLink": "https://www.flipkart.com/search?q=",
+          "icon": "si:SiFlipkart"
+        },
+        {
+          "id": "ecommerce_newegg",
+          "name": "Newegg",
+          "category": "Online Stores & E-commerce",
+          "description": "Online electronics retailer",
+          "about": "Newegg Inc. is an online retailer of computer hardware and software. It is a major e-commerce platform for tech enthusiasts and gamers, offering components and full systems.",
+          "link": "https://www.newegg.com/",
+          "searchLink": "https://www.newegg.com/p/pl?d=",
+          "icon": "si:SiNewegg"
+        },
+        {
+          "id": "ecommerce_mercari",
+          "name": "Mercari",
+          "category": "Online Stores & E-commerce",
+          "description": "Online C2C marketplace",
+          "about": "Mercari is a Japanese e-commerce company that operates an online marketplace allowing users to buy and sell items directly from each other, similar to a digital flea market.",
+          "link": "https://www.mercari.com/",
+          "searchLink": "https://www.mercari.com/search/?keyword=",
+          "icon": "si:SiMercari"
+        },
+        {
+          "id": "ecommerce_shopify",
+          "name": "Shopify",
+          "category": "Online Stores & E-commerce",
+          "description": "E-commerce platform",
+          "about": "Shopify is a leading e-commerce platform that allows individuals and businesses to create their own online stores. It provides tools for website building, marketing, payments, and shipping.",
+          "link": "https://www.shopify.com/",
+          "searchLink": "https://www.shopify.com/search?q=",
+          "icon": "si:SiShopify"
+        }
+      ]
+    },
+    {
+      "name": "Tech Companies & Hardware",
+      "platforms": [
+        {
+          "id": "tech_apple",
+          "name": "Apple",
+          "category": "Tech Companies & Hardware",
+          "description": "Consumer electronics, software, online services",
+          "about": "Apple Inc. is an American multinational technology company renowned for designing, developing, and selling consumer electronics, computer software, and online services. Its popular products include the iPhone, Mac, and Apple Watch.",
+          "link": "https://www.apple.com/",
+          "searchLink": "https://www.apple.com/search/",
+          "icon": "si:SiApple"
+        },
+        {
+          "id": "tech_samsung",
+          "name": "Samsung",
+          "category": "Tech Companies & Hardware",
+          "description": "Global electronics manufacturer",
+          "about": "Samsung is a South Korean multinational manufacturing conglomerate. It produces a wide range of electronics, including smartphones, televisions, home appliances, and semiconductors.",
+          "link": "https://www.samsung.com/",
+          "searchLink": "https://www.samsung.com/us/search/searchMain/?searchTerm=",
+          "icon": "si:SiSamsung"
+        },
+        {
+          "id": "tech_xiaomi",
+          "name": "Xiaomi",
+          "category": "Tech Companies & Hardware",
+          "description": "Chinese electronics company",
+          "about": "Xiaomi Corporation is a Chinese designer and manufacturer of consumer electronics and related software, home appliances, and household items. It's best known for its smartphones.",
+          "link": "https://www.mi.com/global/",
+          "searchLink": "https://www.mi.com/global/search/?q=",
+          "icon": "si:SiXiaomi"
+        },
+        {
+          "id": "tech_oneplus",
+          "name": "OnePlus",
+          "category": "Tech Companies & Hardware",
+          "description": "Chinese smartphone manufacturer",
+          "about": "OnePlus is a Chinese smartphone manufacturer, operating under Oppo, that designs and develops mobile phones. It's known for its high-performance smartphones and a strong community following.",
+          "link": "https://www.oneplus.com/global/",
+          "searchLink": "https://www.oneplus.com/global/search?key=",
+          "icon": "si:SiOneplus"
+        },
+        {
+          "id": "tech_oppo",
+          "name": "Oppo",
+          "category": "Tech Companies & Hardware",
+          "description": "Chinese consumer electronics",
+          "about": "Oppo is a Chinese consumer electronics and mobile communications company known for its smartphones, Blu-ray players, and other electronic devices. It is one of the top smartphone brands globally.",
+          "link": "https://www.oppo.com/en/",
+          "searchLink": "https://www.oppo.com/en/search/?q=",
+          "icon": "si:SiOppo"
+        },
+        {
+          "id": "tech_vivo",
+          "name": "Vivo",
+          "category": "Tech Companies & Hardware",
+          "description": "Chinese smartphone company",
+          "about": "Vivo is a Chinese technology company that designs and develops smartphones, smartphone accessories, software, and online services. It is a major player in the global smartphone market.",
+          "link": "https://www.vivo.com/en/",
+          "searchLink": "https://www.vivo.com/en/search?keyword=",
+          "icon": "si:SiVivo"
+        },
+        {
+          "id": "tech_microsoft",
+          "name": "Microsoft",
+          "category": "Tech Companies & Hardware",
+          "description": "Software, electronics, computing",
+          "about": "Microsoft Corporation is an American multinational technology corporation producing computer software, consumer electronics, personal computers, and related services. Its best-known software products are the Windows line of operating systems.",
+          "link": "https://www.microsoft.com/",
+          "searchLink": "https://www.microsoft.com/en-us/search?q=",
+          "icon": "si:SiMicrosoft"
+        },
+        {
+          "id": "tech_nvidia",
+          "name": "NVIDIA",
+          "category": "Tech Companies & Hardware",
+          "description": "Graphics processing units",
+          "about": "NVIDIA Corporation is an American multinational technology company known for designing graphics processing units (GPUs) for the gaming and professional markets, as well as chipsets for mobile computing and automotive markets.",
+          "link": "https://www.nvidia.com/",
+          "searchLink": "https://www.nvidia.com/en-us/search/?q=",
+          "icon": "si:SiNvidia"
+        },
+        {
+          "id": "tech_intel",
+          "name": "Intel",
+          "category": "Tech Companies & Hardware",
+          "description": "Semiconductor computer circuits",
+          "about": "Intel Corporation is an American multinational corporation and technology company. It is the world's largest semiconductor chip manufacturer by revenue, best known for its x86 series of microprocessors.",
+          "link": "https://www.intel.com/",
+          "searchLink": "https://www.intel.com/content/www/us/en/search.html?keyword=",
+          "icon": "si:SiIntel"
+        },
+        {
+          "id": "tech_ibm",
+          "name": "IBM",
+          "category": "Tech Companies & Hardware",
+          "description": "Technology, consulting company",
+          "about": "IBM (International Business Machines Corporation) is an American multinational technology and consulting company. It manufactures and markets computer hardware, middleware, and software, and provides hosting and consulting services.",
+          "link": "https://www.ibm.com/",
+          "searchLink": "https://www.ibm.com/search?query=",
+          "icon": "si:SiIbm"
+        },
+        {
+          "id": "tech_dell",
+          "name": "Dell",
+          "category": "Tech Companies & Hardware",
+          "description": "Computers, related products",
+          "about": "Dell Technologies Inc. is an American multinational technology company that develops, sells, repairs, and supports computers and related products and services. It is one of the world's largest technology corporations.",
+          "link": "https://www.dell.com/en-us/",
+          "searchLink": "https://www.dell.com/en-us/search?q=",
+          "icon": "si:SiDell"
+        },
+        {
+          "id": "tech_hp",
+          "name": "HP",
+          "category": "Tech Companies & Hardware",
+          "description": "Computers, printers, software",
+          "about": "HP Inc. is an American multinational information technology company known for developing and providing a wide variety of hardware components, as well as software and related services to consumers, small and medium-sized businesses, and large enterprises.",
+          "link": "https://www.hp.com/us-en/",
+          "searchLink": "https://www.hp.com/us-en/search-results.html?search=",
+          "icon": "si:SiHp"
+        },
+        {
+          "id": "tech_sony",
+          "name": "Sony",
+          "category": "Tech Companies & Hardware",
+          "description": "Japanese multinational conglomerate",
+          "about": "Sony Corporation is a Japanese multinational conglomerate corporation. It operates as one of the world's largest manufacturers of consumer and professional electronic products, the largest video game console company, and the largest music entertainment company.",
+          "link": "https://www.sony.com/",
+          "searchLink": "https://www.sony.com/search?q=",
+          "icon": "si:SiSony"
+        },
+        {
+          "id": "tech_lenovo",
+          "name": "Lenovo",
+          "category": "Tech Companies & Hardware",
+          "description": "Chinese consumer electronics",
+          "about": "Lenovo Group Limited is a Chinese multinational technology company specializing in designing, manufacturing, and marketing consumer electronics, personal computers, software, business solutions, and related services. It's the world's largest personal computer vendor.",
+          "link": "https://www.lenovo.com/us/en/",
+          "searchLink": "https://www.lenovo.com/us/en/search?fq=",
+          "icon": "si:SiLenovo"
+        },
+        {
+          "id": "tech_cisco",
+          "name": "Cisco",
+          "category": "Tech Companies & Hardware",
+          "description": "Networking hardware, software",
+          "about": "Cisco Systems, Inc. is an American multinational digital communications technology conglomerate corporation. Cisco develops, manufactures, and sells networking hardware, software, telecommunications equipment, and other high-technology services and products.",
+          "link": "https://www.cisco.com/",
+          "searchLink": "https://www.cisco.com/search/?query=",
+          "icon": "si:SiCisco"
+        },
+        {
+          "id": "tech_oracle",
+          "name": "Oracle",
+          "category": "Tech Companies & Hardware",
+          "description": "Database software, cloud systems",
+          "about": "Oracle Corporation is an American multinational computer technology company. The company sells database software and technology, cloud engineered systems, and enterprise software products, particularly its own brands of database management systems.",
+          "link": "https://www.oracle.com/",
+          "searchLink": "https://www.oracle.com/search/results/?q=",
+          "icon": "si:SiOracle"
+        }
+      ]
+    },
+    {
+      "name": "Design & Creativity",
+      "platforms": [
+        {
+          "id": "design_canva",
+          "name": "Canva",
+          "category": "Design & Creativity",
+          "description": "Online graphic design",
+          "about": "Canva is an online graphic design platform that allows users to create social media graphics, presentations, posters, documents, and other visual content with drag-and-drop features and professional templates.",
+          "link": "https://www.canva.com/",
+          "searchLink": "https://www.canva.com/s/templates?query=",
+          "icon": "si:SiCanva"
+        },
+        {
+          "id": "design_adobe",
+          "name": "Adobe",
+          "category": "Design & Creativity",
+          "description": "Creative, multimedia software",
+          "about": "Adobe Inc. is an American multinational computer software company historically focused upon the creation of multimedia and creativity software products. It's known for products like Photoshop, Illustrator, and Premiere Pro.",
+          "link": "https://www.adobe.com/",
+          "searchLink": "https://www.adobe.com/search.html?q=",
+          "icon": "si:SiAdobe"
+        },
+        {
+          "id": "design_figma",
+          "name": "Figma",
+          "category": "Design & Creativity",
+          "description": "Collaborative interface design",
+          "about": "Figma is a web-based collaborative interface design tool. It allows multiple users to work on the same design project simultaneously, making it popular for UI/UX design and prototyping.",
+          "link": "https://www.figma.com/",
+          "searchLink": "https://www.figma.com/search?q=",
+          "icon": "si:SiFigma"
+        },
+        {
+          "id": "design_behance",
+          "name": "Behance",
+          "category": "Design & Creativity",
+          "description": "Showcase creative work",
+          "about": "Behance is a social media platform owned by Adobe that allows creative professionals to showcase their portfolios of work. It serves as a community for discovering and being discovered by other creatives and potential clients.",
+          "link": "https://www.behance.net/",
+          "searchLink": "https://www.behance.net/search?search_source=global_search&q=",
+          "icon": "si:SiBehance"
+        },
+        {
+          "id": "design_dribbble",
+          "name": "Dribbble",
+          "category": "Design & Creativity",
+          "description": "Designer community, showcase",
+          "about": "Dribbble is a community and self-promotion platform for digital designers. It serves as a platform for designers to share small screenshots (shots) of their work, processes, and projects.",
+          "link": "https://dribbble.com/",
+          "searchLink": "https://dribbble.com/search/",
+          "icon": "si:SiDribbble"
+        }
+      ]
+    },
+    {
+      "name": "Development & Coding",
+      "platforms": [
+        {
+          "id": "dev_github",
+          "name": "GitHub",
+          "category": "Development & Coding",
+          "description": "Code hosting, version control",
+          "about": "GitHub is a web-based platform for version control and collaboration, primarily used for software development. It hosts source code, tracks changes, and facilitates collaboration among developers using Git.",
+          "link": "https://github.com/",
+          "searchLink": "https://github.com/search?q=",
+          "icon": "si:SiGithub"
+        },
+        {
+          "id": "dev_stackoverflow",
+          "name": "Stack Overflow",
+          "category": "Development & Coding",
+          "description": "Q&A for programmers",
+          "about": "Stack Overflow is a question and answer website for professional and enthusiast programmers. It's a key resource for developers to ask questions, share knowledge, and learn about programming.",
+          "link": "https://stackoverflow.com/",
+          "searchLink": "https://stackoverflow.com/search?q=",
+          "icon": "si:SiStackoverflow"
+        },
+        {
+          "id": "dev_gitlab",
+          "name": "GitLab",
+          "category": "Development & Coding",
+          "description": "DevOps platform",
+          "about": "GitLab is a web-based DevOps lifecycle tool that provides a Git-repository manager with wiki, issue-tracking, and CI/CD pipeline features. It helps teams collaborate on software development from planning to deployment.",
+          "link": "https://gitlab.com/",
+          "searchLink": "https://gitlab.com/search?search=",
+          "icon": "si:SiGitlab"
+        },
+        {
+          "id": "dev_codepen",
+          "name": "CodePen",
+          "category": "Development & Coding",
+          "description": "Front-end dev environment",
+          "about": "CodePen is an online community for testing and showcasing user-created HTML, CSS, and JavaScript code snippets. It functions as a social development environment for front-end developers.",
+          "link": "https://codepen.io/",
+          "searchLink": "https://codepen.io/search/pens?q=",
+          "icon": "si:SiCodepen"
+        },
+        {
+          "id": "dev_mdn_web_docs",
+          "name": "MDN Web Docs",
+          "category": "Development & Coding",
+          "description": "Web developer resources",
+          "about": "MDN Web Docs (formerly Mozilla Developer Network) is a Mozilla project that provides documentation for web technologies, including HTML, CSS, JavaScript, and Web APIs. It's a comprehensive resource for web developers.",
+          "link": "https://developer.mozilla.org/en-US/",
+          "searchLink": "https://developer.mozilla.org/en-US/search?q=",
+          "icon": "si:SiMozilla"
+        }
+      ]
+    },
+    {
+      "name": "Productivity & Collaboration",
+      "platforms": [
+        {
+          "id": "prod_google_workspace",
+          "name": "Google Workspace",
+          "category": "Productivity & Collaboration",
+          "description": "Cloud productivity tools",
+          "about": "Google Workspace (formerly G Suite) is a collection of cloud computing, productivity and collaboration tools, software and products developed by Google. It includes Gmail, Docs, Drive, Calendar, and Meet.",
+          "link": "https://workspace.google.com/",
+          "searchLink": "https://workspace.google.com/search?q=",
+          "icon": "si:SiGoogle"
+        },
+        {
+          "id": "prod_microsoft_365",
+          "name": "Microsoft 365",
+          "category": "Productivity & Collaboration",
+          "description": "Office apps, cloud services",
+          "about": "Microsoft 365 is a line of subscription services from Microsoft that offers a collection of productivity and collaboration tools, including Microsoft Office applications (Word, Excel, PowerPoint), along with cloud services like OneDrive and Exchange.",
+          "link": "https://www.microsoft.com/en-us/microsoft-365",
+          "searchLink": "https://www.microsoft.com/en-us/search?q=",
+          "icon": "si:SiMicrosoft"
+        },
+        {
+          "id": "prod_slack",
+          "name": "Slack",
+          "category": "Productivity & Collaboration",
+          "description": "Team messaging, collaboration",
+          "about": "Slack is a popular business communication platform that offers instant messaging, file sharing, and video conferencing. It's designed to streamline communication and collaboration within teams and organizations.",
+          "link": "https://slack.com/",
+          "searchLink": "https://slack.com/search",
+          "icon": "si:SiSlack"
+        },
+        {
+          "id": "prod_zoom",
+          "name": "Zoom",
+          "category": "Productivity & Collaboration",
+          "description": "Video conferencing platform",
+          "about": "Zoom is a popular cloud-based video conferencing service used for virtual meetings, webinars, and online collaboration. It allows users to connect remotely through video, audio, and chat.",
+          "link": "https://zoom.us/",
+          "searchLink": "https://zoom.us/search?query=",
+          "icon": "si:SiZoom"
+        },
+        {
+          "id": "prod_trello",
+          "name": "Trello",
+          "category": "Productivity & Collaboration",
+          "description": "Project management tool",
+          "about": "Trello is a web-based, Kanban-style, list-making application that helps teams organize projects and tasks visually. It uses boards, lists, and cards to provide a clear overview of work progress.",
+          "link": "https://trello.com/",
+          "searchLink": "https://trello.com/search?q=",
+          "icon": "si:SiTrello"
+        },
+        {
+          "id": "prod_asana",
+          "name": "Asana",
+          "category": "Productivity & Collaboration",
+          "description": "Work management platform",
+          "about": "Asana is a web and mobile application designed to help teams organize, track, and manage their work. It aims to improve team collaboration and project management efficiency.",
+          "link": "https://asana.com/",
+          "searchLink": "https://asana.com/search",
+          "icon": "si:SiAsana"
+        }
+      ]
+    },
+    {
+      "name": "News & Information",
+      "platforms": [
+        {
+          "id": "news_bbc",
+          "name": "BBC News",
+          "category": "News & Information",
+          "description": "International news service",
+          "about": "BBC News is an operational business division of the British Broadcasting Corporation (BBC) responsible for the gathering and broadcasting of news and current affairs. It is one of the largest news organizations in the world.",
+          "link": "https://www.bbc.com/news",
+          "searchLink": "https://www.bbc.co.uk/search?q=",
+          "icon": "si:SiBbc"
+        },
+        {
+          "id": "news_cnn",
+          "name": "CNN",
+          "category": "News & Information",
+          "description": "Cable News Network",
+          "about": "CNN (Cable News Network) is a multinational news channel headquartered in Atlanta, Georgia, U.S. It was the first television channel to provide 24-hour news coverage and has a global presence.",
+          "link": "https://www.cnn.com/",
+          "searchLink": "https://edition.cnn.com/search?q=",
+          "icon": "si:SiCnn"
+        },
+        {
+          "id": "news_new_york_times",
+          "name": "The New York Times",
+          "category": "News & Information",
+          "description": "American daily newspaper",
+          "about": "The New York Times is an American daily newspaper based in New York City with a worldwide readership. It is a leading source of news and information, known for its in-depth reporting and analysis.",
+          "link": "https://www.nytimes.com/",
+          "searchLink": "https://www.nytimes.com/search?query=",
+          "icon": "si:SiTheNewYorkTimes"
+        },
+        {
+          "id": "news_the_guardian",
+          "name": "The Guardian",
+          "category": "News & Information",
+          "description": "British daily newspaper",
+          "about": "The Guardian is a British daily newspaper known for its progressive and liberal editorial stance. It provides extensive coverage of national and international news, politics, and culture.",
+          "link": "https://www.theguardian.com/international",
+          "searchLink": "https://www.theguardian.com/search?q=",
+          "icon": "si:SiTheGuardian"
+        },
+        {
+          "id": "news_reuters",
+          "name": "Reuters",
+          "category": "News & Information",
+          "description": "International news agency",
+          "about": "Reuters is an international news organization owned by Thomson Reuters. It provides news reports to newspapers, television and radio stations, and online media outlets worldwide.",
+          "link": "https://www.reuters.com/",
+          "searchLink": "https://www.reuters.com/search/news?blob=",
+          "icon": "si:SiReuters"
+        }
+      ]
+    },
+    {
+      "name": "Education & Learning",
+      "platforms": [
+        {
+          "id": "edu_coursera",
+          "name": "Coursera",
+          "category": "Education & Learning",
+          "description": "Online courses, degrees",
+          "about": "Coursera is an American online learning platform offering massive open online courses (MOOCs), specializations, and degrees from universities and companies. It provides access to a wide range of subjects.",
+          "link": "https://www.coursera.org/",
+          "searchLink": "https://www.coursera.org/search?query=",
+          "icon": "si:SiCoursera"
+        },
+        {
+          "id": "edu_edx",
+          "name": "edX",
+          "category": "Education & Learning",
+          "description": "University courses online",
+          "about": "edX is an American massive open online course (MOOC) provider created by Harvard and MIT. It hosts online university-level courses in a wide range of disciplines to a worldwide audience, many at no charge.",
+          "link": "https://www.edx.org/",
+          "searchLink": "https://www.edx.org/search?q=",
+          "icon": "si:SiEdx"
+        },
+        {
+          "id": "edu_khan_academy",
+          "name": "Khan Academy",
+          "category": "Education & Learning",
+          "description": "Free online education",
+          "about": "Khan Academy is an American non-profit educational organization. It produces short lessons in the form of videos and exercises, covering a wide range of academic subjects for learners of all ages.",
+          "link": "https://www.khanacademy.org/",
+          "searchLink": "https://www.khanacademy.org/search?referer=%2F&q=",
+          "icon": "si:SiKhanacademy"
+        },
+        {
+          "id": "edu_udemy",
+          "name": "Udemy",
+          "category": "Education & Learning",
+          "description": "Online learning marketplace",
+          "about": "Udemy is an online learning and teaching marketplace with thousands of courses taught by expert instructors. It offers both free and paid courses across various subjects, from programming to photography.",
+          "link": "https://www.udemy.com/",
+          "searchLink": "https://www.udemy.com/courses/search/?q=",
+          "icon": "si:SiUdemy"
+        },
+        {
+          "id": "edu_duolingo",
+          "name": "Duolingo",
+          "category": "Education & Learning",
+          "description": "Language learning app",
+          "about": "Duolingo is an American educational technology company that produces a language-learning website and mobile app. It uses a gamified approach to help users learn new languages through short lessons.",
+          "link": "https://www.duolingo.com/",
+          "searchLink": "https://www.duolingo.com/search",
+          "icon": "si:SiDuolingo"
+        }
+      ]
+    },
+    {
+      "name": "Mapping & Navigation",
+      "platforms": [
+        {
+          "id": "map_google_maps",
+          "name": "Google Maps",
+          "category": "Mapping & Navigation",
+          "description": "Web mapping service",
+          "about": "Google Maps is a web mapping platform and consumer application offered by Google. It offers satellite imagery, aerial photography, street maps, 360° panoramic street views, real-time traffic conditions, and route planning.",
+          "link": "https://www.google.com/maps",
+          "searchLink": "https://www.google.com/maps/search/",
+          "icon": "si:SiGooglemaps"
+        },
+        {
+          "id": "map_waze",
+          "name": "Waze",
+          "category": "Mapping & Navigation",
+          "description": "Community-driven navigation app",
+          "about": "Waze is a GPS navigation software app owned by Google. It uses real-time traffic information from users to optimize routes and provide alerts for hazards, police, and traffic jams.",
+          "link": "https://www.waze.com/",
+          "searchLink": "https://www.waze.com/live-map/directions/search?q=",
+          "icon": "si:SiWaze"
+        },
+        {
+          "id": "map_apple_maps",
+          "name": "Apple Maps",
+          "category": "Mapping & Navigation",
+          "description": "Apple's mapping service",
+          "about": "Apple Maps is a web mapping service developed by Apple Inc. for its iOS, iPadOS, macOS, and watchOS devices. It provides directions, points of interest, and detailed city guides.",
+          "link": "https://www.apple.com/maps/",
+          "searchLink": "https://maps.apple.com/search/",
+          "icon": "si:SiApplemaps"
+        }
+      ]
+    },
+    {
+      "name": "Finance & Banking",
+      "platforms": [
+        {
+          "id": "finance_paypal",
+          "name": "PayPal",
+          "category": "Finance & Banking",
+          "description": "Online payments system",
+          "about": "PayPal is an American multinational financial technology company operating an online payments system that supports online money transfers and serves as an electronic alternative to traditional paper methods like checks and money orders.",
+          "link": "https://www.paypal.com/",
+          "searchLink": "https://www.paypal.com/us/smarthelp/search?q=",
+          "icon": "si:SiPaypal"
+        },
+        {
+          "id": "finance_visa",
+          "name": "Visa",
+          "category": "Finance & Banking",
+          "description": "Global payments technology",
+          "about": "Visa Inc. is an American multinational financial services corporation. It facilitates electronic funds transfers throughout the world, most commonly through Visa-branded credit cards, debit cards, and prepaid cards.",
+          "link": "https://usa.visa.com/",
+          "searchLink": "https://usa.visa.com/site-search.html?q=",
+          "icon": "si:SiVisa"
+        },
+        {
+          "id": "finance_mastercard",
+          "name": "Mastercard",
+          "category": "Finance & Banking",
+          "description": "Global payments network",
+          "about": "Mastercard Inc. is an American multinational financial services corporation. It processes payments between banks of merchants and the card-issuing banks or credit unions of purchasers who use the 'Mastercard' brand debit, credit and prepaid cards.",
+          "link": "https://www.mastercard.us/",
+          "searchLink": "https://www.mastercard.us/en-us/search.html?q=",
+          "icon": "si:SiMastercard"
+        },
+        {
+          "id": "finance_american_express",
+          "name": "American Express",
+          "category": "Finance & Banking",
+          "description": "Financial services, credit cards",
+          "about": "American Express Company is a multinational financial services corporation best known for its credit card, charge card, and traveler's cheque businesses. It also offers travel-related products and services.",
+          "link": "https://www.americanexpress.com/",
+          "searchLink": "https://www.americanexpress.com/en-us/search/?q=",
+          "icon": "si:SiAmericanexpress"
+        },
+        {
+          "id": "finance_chase",
+          "name": "Chase",
+          "category": "Finance & Banking",
+          "description": "Bank, financial services",
+          "about": "JPMorgan Chase & Co. is an American multinational financial services company. Chase Bank is its consumer and commercial banking business, offering various financial products and services, including banking, credit cards, and mortgages.",
+          "link": "https://www.chase.com/",
+          "searchLink": "https://www.chase.com/digital/resources/search?q=",
+          "icon": null
+        }
+      ]
+    },
+    {
+      "name": "Travel & Hospitality",
+      "platforms": [
+        {
+          "id": "travel_booking_com",
+          "name": "Booking.com",
+          "category": "Travel & Hospitality",
+          "description": "Online hotel reservations",
+          "about": "Booking.com is an online travel agency for lodging reservations. It offers booking services for hotels, apartments, villas, and other types of accommodation worldwide.",
+          "link": "https://www.booking.com/",
+          "searchLink": "https://www.booking.com/searchresults.en-us.html?ss=",
+          "icon": "si:SiBooking"
+        },
+        {
+          "id": "travel_airbnb",
+          "name": "Airbnb",
+          "category": "Travel & Hospitality",
+          "description": "Unique accommodations, experiences",
+          "about": "Airbnb is an online marketplace for lodging, primarily homestays for vacation rentals, and tourism activities. It allows individuals to rent out their properties or spare rooms to guests.",
+          "link": "https://www.airbnb.com/",
+          "searchLink": "https://www.airbnb.com/s/homes?query=",
+          "icon": "si:SiAirbnb"
+        },
+        {
+          "id": "travel_expedia",
+          "name": "Expedia",
+          "category": "Travel & Hospitality",
+          "description": "Online travel agency",
+          "about": "Expedia Group is an American online travel shopping company for consumer and business travel. It operates various travel booking websites, including Expedia.com, Hotels.com, and Vrbo.",
+          "link": "https://www.expedia.com/",
+          "searchLink": "https://www.expedia.com/Flights-Search?trip=",
+          "icon": "si:SiExpedia"
+        },
+        {
+          "id": "travel_tripadvisor",
+          "name": "TripAdvisor",
+          "category": "Travel & Hospitality",
+          "description": "Travel reviews, bookings",
+          "about": "TripAdvisor is an American online travel company that provides hotel and restaurant reviews, accommodation bookings, and other travel-related content. It helps users plan and book their trips based on peer reviews.",
+          "link": "https://www.tripadvisor.com/",
+          "searchLink": "https://www.tripadvisor.com/Search?q=",
+          "icon": "si:SiTripadvisor"
+        }
+      ]
+    },
+    {
+      "name": "Food & Delivery",
+      "platforms": [
+        {
+          "id": "food_uber_eats",
+          "name": "Uber Eats",
+          "category": "Food & Delivery",
+          "description": "Food delivery service",
+          "about": "Uber Eats is an online food ordering and delivery platform launched by Uber. It allows users to order food from local restaurants and have it delivered to their location.",
+          "link": "https://www.ubereats.com/",
+          "searchLink": "https://www.ubereats.com/search?q=",
+          "icon": "si:SiUbereats"
+        },
+        {
+          "id": "food_doordash",
+          "name": "DoorDash",
+          "category": "Food & Delivery",
+          "description": "Food delivery marketplace",
+          "about": "DoorDash is an American online food ordering and food delivery platform. It operates a logistics platform that connects customers with local restaurants and independent couriers.",
+          "link": "https://www.doordash.com/",
+          "searchLink": "https://www.doordash.com/search/",
+          "icon": "si:SiDoordash"
+        },
+        {
+          "id": "food_grubhub",
+          "name": "Grubhub",
+          "category": "Food & Delivery",
+          "description": "Online food ordering",
+          "about": "Grubhub is an American online food ordering and delivery platform. It connects diners with local restaurants and offers takeout and delivery services.",
+          "link": "https://www.grubhub.com/",
+          "searchLink": "https://www.grubhub.com/search?searchTerm=",
+          "icon": "si:SiGrubhub"
+        }
+      ]
+    },
+    {
+      "name": "Professional Services",
+      "platforms": [
+        {
+          "id": "prof_indeed",
+          "name": "Indeed",
+          "category": "Professional Services",
+          "description": "Job search engine",
+          "about": "Indeed is an American worldwide employment website for job listings. It allows job seekers to search for jobs, upload resumes, and research companies, while employers can post jobs and find candidates.",
+          "link": "https://www.indeed.com/",
+          "searchLink": "https://www.indeed.com/jobs?q=",
+          "icon": "si:SiIndeed"
+        },
+        {
+          "id": "prof_upwork",
+          "name": "Upwork",
+          "category": "Professional Services",
+          "description": "Freelancing platform",
+          "about": "Upwork is a global freelancing platform where businesses and independent professionals connect and collaborate remotely. It allows clients to hire freelancers for various services like writing, design, and web development.",
+          "link": "https://www.upwork.com/",
+          "searchLink": "https://www.upwork.com/nx/find-work/suggestions?q=",
+          "icon": "si:SiUpwork"
+        },
+        {
+          "id": "prof_fiverr",
+          "name": "Fiverr",
+          "category": "Professional Services",
+          "description": "Freelance services marketplace",
+          "about": "Fiverr is an online marketplace for freelance services. It's known for its 'gig' model, where freelancers offer services (gigs) starting from a few dollars, ranging from graphic design to digital marketing.",
+          "link": "https://www.fiverr.com/",
+          "searchLink": "https://www.fiverr.com/search/gigs?query=",
+          "icon": "si:SiFiverr"
+        }
+      ]
+    },
+    {
+      "name": "Cloud Storage & Computing",
+      "platforms": [
+        {
+          "id": "cloud_google_drive",
+          "name": "Google Drive",
+          "category": "Cloud Storage & Computing",
+          "description": "Cloud storage, file sync",
+          "about": "Google Drive is a file storage and synchronization service developed by Google. It allows users to store files in the cloud, synchronize files across devices, and share files with others.",
+          "link": "https://drive.google.com/drive",
+          "searchLink": "https://drive.google.com/drive/u/0/search?q=",
+          "icon": "si:SiGoogledrive"
+        },
+        {
+          "id": "cloud_dropbox",
+          "name": "Dropbox",
+          "category": "Cloud Storage & Computing",
+          "description": "Cloud storage, collaboration",
+          "about": "Dropbox is a file hosting service that offers cloud storage, file synchronization, personal cloud, and client software. It enables users to store and share files securely across various devices.",
+          "link": "https://www.dropbox.com/",
+          "searchLink": "https://www.dropbox.com/search",
+          "icon": "si:SiDropbox"
+        },
+        {
+          "id": "cloud_onedrive",
+          "name": "OneDrive",
+          "category": "Cloud Storage & Computing",
+          "description": "Microsoft cloud storage",
+          "about": "OneDrive is a file hosting service and synchronization service operated by Microsoft as part of its web version of Office. It allows users to store files and personal data in the cloud, sync files across devices, and share them.",
+          "link": "https://onedrive.live.com/",
+          "searchLink": "https://onedrive.live.com/?v=search&q=",
+          "icon": "si:SiOnedrive"
+        },
+        {
+          "id": "cloud_aws",
+          "name": "AWS (Amazon Web Services)",
+          "category": "Cloud Storage & Computing",
+          "description": "Cloud computing platform",
+          "about": "Amazon Web Services (AWS) is a comprehensive, broadly adopted, and secure cloud platform offered by Amazon. It provides on-demand cloud computing platforms and APIs to individuals, companies, and governments.",
+          "link": "https://aws.amazon.com/",
+          "searchLink": "https://aws.amazon.com/search/?searchQuery=",
+          "icon": "si:SiAmazonaws"
+        },
+        {
+          "id": "cloud_azure",
+          "name": "Azure (Microsoft Azure)",
+          "category": "Cloud Storage & Computing",
+          "description": "Microsoft's cloud service",
+          "about": "Microsoft Azure, commonly referred to as Azure, is a cloud computing service operated by Microsoft. It provides a range of cloud services, including computing, analytics, storage, and networking, for building, deploying, and managing applications.",
+          "link": "https://azure.microsoft.com/en-us/",
+          "searchLink": "https://azure.microsoft.com/en-us/search/results/?q=",
+          "icon": "si:SiMicrosoftazure"
+        },
+        {
+          "id": "cloud_google_cloud",
+          "name": "Google Cloud",
+          "category": "Cloud Storage & Computing",
+          "description": "Google cloud computing",
+          "about": "Google Cloud Platform (GCP) is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, such as Google Search and YouTube. It offers services for computing, storage, networking, and machine learning.",
+          "link": "https://cloud.google.com/",
+          "searchLink": "https://cloud.google.com/search?q=",
+          "icon": "si:SiGooglecloud"
+        }
+      ]
+    }
+  ]
+}
